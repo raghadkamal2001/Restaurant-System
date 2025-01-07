@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    background-color: yellowgreen;
+    justify-content: space-between;
+    padding-left: 30px;
+}
+nav ul li {
+    display: inline;
+    margin-right: 15px;
+;}
+form{
+    margin: 15px;
+}
+
+footer {
+    background-color: bisque;
+}
